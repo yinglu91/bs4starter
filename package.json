@@ -6,10 +6,10 @@
   "scripts": {
     "start": "gulp"
   },
-  "author": "Brad Traversy",
+  "author": "Y. L.",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "4.0.0-beta",
+    "bootstrap": "4.0.0-alpha.6",
     "font-awesome": "^4.7.0",
     "jquery": "^3.2.1",
     "popper.js": "^1.11.1"
